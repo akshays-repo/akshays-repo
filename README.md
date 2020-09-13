@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Python ML
 - 📫 How to reach me: akshayshan28@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshays-repo&theme=buefy&layout=compact)
 
 <!--
 **akshays-repo/akshays-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
