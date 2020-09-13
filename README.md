@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Reactjs and Python
+- 🔭 I’m currently working on React JS and Python
 - 🌱 I’m currently learning Python ML
 - 📫 How to reach me: akshayshan28@gmail.com
 
