@@ -2,7 +2,7 @@
   
 
 - 🔭 I’m currently working on React JS and Python
-- 🌱 I’m currently learning Python ML
+- 🌱 I’m currently learning Frontend
 - 📫 How to reach me: akshayshan28@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshays-repo&theme=buefy&layout=compact)
