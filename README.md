@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on React JS 
 - 🌱 I’m currently learning Frontend
 - 📫 How to reach me: akshayshan28@gmail.com
-busy with company work cant do any fucking creative thing on github as i planned , i will be soon .. and please dont ask me when !!
+- busy with company work cant do any fucking creative thing on github as i planned , i will be soon .. and please dont ask me when !!
 bye...
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshays-repo&theme=buefy&layout=compact)
